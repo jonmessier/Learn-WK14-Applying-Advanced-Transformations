@@ -40,7 +40,7 @@ Hint: There is a space in "100 kg" or "52.5 cm"
 ### II. Use your combined DataFrame to answer the following questions.
 
 - Compare the average weight of super powers who have Super Speed to those who do not.
-![png]('Data/weights.png')
+![png](Data/weights.png)
 - What is the average height of heroes for each publisher?
 ![png]('Data/heights.png')
 
